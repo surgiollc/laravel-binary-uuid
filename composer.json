@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-binary-uuid",
+    "name": "surgiollc/laravel-binary-uuid",
     "description": "Binary support for UUIDs in Laravel",
     "keywords": [
         "spatie",
